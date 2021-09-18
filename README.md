@@ -1,1 +1,1 @@
-# exceptions1-java
+# Training JAVA exception handling
